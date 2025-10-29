@@ -1,0 +1,11 @@
+[project]
+name = "new-cool"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "pymupdf>=1.26.5",
+    "termcolor>=3.2.0",
+]
